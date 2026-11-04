@@ -55,6 +55,18 @@ I enjoy exploring the connection between fundamental physics, experimental resea
 
 ## Computational and Technical Skills
 
+
+### Languages and Scientific Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-Quantum%20Toolbox-6A5ACD?style=for-the-badge)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+
 - Python
 - MATLAB
 - QuTiP
