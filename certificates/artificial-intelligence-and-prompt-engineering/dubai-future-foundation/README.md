@@ -9,3 +9,8 @@ This section documents the 1 Million Prompters credential issued by Dubai Future
 - **Program:** 1 Million Prompters
 
 **Focus:** Artificial intelligence and prompt engineering.
+---
+
+## Certificate File
+
+- [1 Million Prompters – Certificate](mahdiyeh-ghasemi-certificate.pdf)
