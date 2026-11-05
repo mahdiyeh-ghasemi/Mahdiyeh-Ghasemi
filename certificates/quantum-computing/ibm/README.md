@@ -29,3 +29,18 @@ This section presents four completed credentials issued by IBM and IBM SkillsBui
 - **Issue Date:** 26 October 2026
 
 **Description:** Introduces quantum computing fundamentals, including superposition, entanglement, measurement, quantum logic gates, and practical exercises using IBM Quantum Composer.
+
+---
+
+## Certificate Files
+
+### IBM Quantum Computing
+
+- [Using a Quantum Computer](UsingaQuantumComputer_Badge20261024-20-66ynth.pdf)
+- [Foundations of Quantum Error Correction](FoundationsofQuantumErrorCorrection_Badge20261024-20-jpqpwl.pdf)
+- [General Formulation of Quantum Information](GeneralFormulationofQuantumInformation_Badge20261024-20-2ba4fj.pdf)
+- [Quantum Enigmas](QuantumEnigmas_Badge20261026-20-jf3mdc.pdf)
+
+### IBM SkillsBuild
+
+- [Completion Certificate – SkillsBuild](<Completion Certificate | SkillsBuild.pdf>)
