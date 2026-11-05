@@ -124,6 +124,15 @@ Elba Island, Italy.
 
 I enjoy exploring new scientific ideas, learning computational tools, and building things that connect theoretical concepts with practical applications. I am especially interested in research environments where experimental physics, mathematical modeling, and emerging technologies come together.
 
+## Certificates and Professional Development
+
+I have completed training and professional development courses in quantum computing, artificial intelligence, scientific research, cybersecurity, and English language teaching.
+
+The certificates are organized by subject area and issuing institution.
+
+[View Certificates and Professional Development](certificates/)
+
+
 ## Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/mahdiyeh-ghasemi-99364872/)
