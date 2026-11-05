@@ -43,3 +43,15 @@ This section documents six completed courses offered by The Open University, cov
 - **Duration:** 8 hours
 - **Issue Date:** 5 October 2026
 - **Description:** Exploration of leadership practices that support change and inclusion in educational settings.
+---
+
+## Certificate Files
+
+The following files contain the course completion statements issued by The Open University:
+
+- [Exploring Data: Graphs and Numerical Summaries](B208_1_statement.pdf)
+- [An Introduction to Electronics](INL_1_statement.pdf)
+- [Introduction to Quantum Computing](M248_1_statement.pdf)
+- [Introduction to Computational Thinking](M269_1_statement.pdf)
+- [Collective Leadership](SM380_1_statement.pdf)
+- [Inclusive Leadership: Effecting Change](T212_1_statement.pdf)
