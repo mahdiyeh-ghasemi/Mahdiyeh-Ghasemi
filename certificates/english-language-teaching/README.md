@@ -1,55 +1,20 @@
-# English Language Teaching and Teacher Development
+## Certificate Files
 
-This section documents completed training courses and professional development credentials in English language teaching (ELT), teaching methodology, and TEFL.
+### British Council – TeachingEnglish
 
-## 1. British Council – TeachingEnglish
+- [Feedback and Error Correction](<Feedback and erros correction- British Council.pdf>)
+- [How to Teach Reading](<How to Teach Reading- British Council.pdf>)
 
-### TeachingEnglish: Feedback and Error Correction
+### Trinity College London – Teach with Trinity
 
-- **Provider:** TeachingEnglish
-- **Issue Date:** 11 October 2026
-- **Focus:** Providing effective feedback and addressing learner errors in English language teaching.
+- [Developing as a Teacher (3 hours)](<Trinity_College_London__Trinity_Teach_-Teach_with_Trinity__Developing_as_a_teacher__3_hours_-Certificate.pdf>)
+- [Getting Started (3 hours)](<Trinity_College_London__Trinity_Teach_-Teach_with_Trinity__Getting_started__3_hours_-Certificate.pdf>)
 
-### TeachingEnglish: How to Teach Reading
+### TEFL Professional Institute – Teacher Record
 
-- **Provider:** TeachingEnglish
-- **Issue Date:** 11 October 2026
-- **Focus:** Approaches and techniques for teaching reading skills.
+- [TEFL Certificate – 120 Hours](TR6080451773-certificate.pdf)
+- [TEFL Course Transcript](TR6080451773-transcript.pdf)
 
-## 2. Trinity College London – Teach with Trinity
+### Teacher Portal
 
-### Teach with Trinity: Developing as a Teacher
-
-- **Provider:** Trinity College London
-- **Duration:** 3 hours
-- **Issue Date:** 6 October 2026
-- **Expiry Date:** 6 October 2027
-
-### Teach with Trinity: Getting Started
-
-- **Provider:** Trinity College London
-- **Duration:** 3 hours
-- **Issue Date:** 6 October 2026
-- **Expiry Date:** 6 October 2027
-
-## 3. TEFL Professional Institute – Teacher Record
-
-### Teaching English as a Foreign Language (120 Hours)
-
-- **Provider:** TEFL Professional Institute – Teacher Record
-- **Duration:** 120 hours
-- **Issue Date:** September 2026
-- **Result:** Distinction
-- **Certificate Number:** TR6080451773
-
-**Course content:** Introduction to TEFL, grammar and syntactic awareness, lesson planning, controlled practice, vocabulary, phonology, listening, reading, speaking, writing, grammar instruction, teaching children, and classroom strategies.
-
-The accompanying course transcript documents the completed modules.
-
-## 4. Additional Teaching Credential
-
-### Teacher Portal Certificate
-
-- **Provider:** To be confirmed
-- **Course Title:** To be confirmed
-- **Issue Date:** To be confirmed
+- [Teacher Portal Certificate](IMG_5643.jpg)
