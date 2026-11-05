@@ -17,7 +17,7 @@ This section presents my completed academic, scientific, technical, and professi
 - [Elsevier Researcher Academy](academic-and-research-development/elsevier-researcher-academy/)
 
 ### 5. Language Learning and Teaching
-- [English Language Teaching](language-learning-and-proficiency/english-language-teaching/)
+- [English Language Teaching](english-language-teaching/)
 
 ### 6. Artificial Intelligence and Prompt Engineering
 - [Dubai Future Foundation – 1 Million Prompters](artificial-intelligence-and-prompt-engineering/dubai-future-foundation/)
